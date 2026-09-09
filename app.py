@@ -21,7 +21,7 @@ def finalizar_app():
     # os.system('clear') 
     print('Finalizando o app')
 
-
+#opcao 
 def escolher_opcao():
     opcao_escolhida = int(input('Escolha uma opção: '))
     # opcao_escolhida = int(opcao_escolhida)
